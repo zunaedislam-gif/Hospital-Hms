@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pattern HMS",
+  "description": "Enterprise Multi-Hospital \u0026 Diagnostic Center Management System - Super Admin Command Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
